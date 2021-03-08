@@ -6,3 +6,6 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 [Faithful NUmbers](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/Osagie_Iyayi.Day05.py): A task to find a particular faithful at a particular integer (n)  position
 
 
+[Hangman](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-08-code-challenge.py): A code challenge based on the hangman gueesing game 
+
+
