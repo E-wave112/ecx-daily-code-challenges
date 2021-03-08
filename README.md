@@ -12,4 +12,6 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 
 [Abundant Numbers](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-17-code-challenge.py): A code task which finds the first n [abundant numbers](https://en.wikipedia.org/wiki/Abundant_number)
 
+[Fibonacci](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-22-code-challenge.py): A code task which involves finding a [fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number) number at a particular position n
+
 
