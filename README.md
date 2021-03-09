@@ -18,4 +18,5 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 
 [POWER LIST](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-06-code-challenge.py): This code task finds all the possible sublists that can be formed from a list
 
+[AMICABILITY](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-18-code-challenge.py): This code task verifies if two sets of numbers are [Amicable](https://en.wikipedia.org/wiki/Amicable_numbers)
 
