@@ -24,6 +24,8 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 
 [TRIANGLE](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-25-code-challenge.py) : A code task that returns the area and type of a triangle based on it's inputs.
 
+[ARMSTRONG](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-23-code-challenge.py): A code task that helps us verify if a number is an [Armstrong number](https://en.wikipedia.org/wiki/Narcissistic_number)
+
 [MANDARIN](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-20-code-challenge.py): This script converts an arabic number to a mandarin number.
 
 [GPA CALC](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-26-code-challenge.py): A script that calculates a student's gpa for a particular semester
