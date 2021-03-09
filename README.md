@@ -24,3 +24,5 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 
 [TRIANGLE](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-25-code-challenge.py) : A code task that returns the area and type of a triangle based on it's inputs.
 
+[MANDARIN](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-20-code-challenge.py): This script converts an arabic number to a mandarin number.
+
