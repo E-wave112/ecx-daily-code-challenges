@@ -20,3 +20,5 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 
 [AMICABILITY](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-18-code-challenge.py): This code task verifies if two sets of numbers are [Amicable](https://en.wikipedia.org/wiki/Amicable_numbers)
 
+[DENCODE](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-09-code-challenge.py): A code task that decrypts and encrypts texts based on a particular cipher matrix.
+
