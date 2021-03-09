@@ -26,3 +26,4 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 
 [MANDARIN](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-20-code-challenge.py): This script converts an arabic number to a mandarin number.
 
+[GPA CALC](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-26-code-challenge.py): A script that calculates a student's gpa for a particular semester
