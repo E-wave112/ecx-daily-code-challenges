@@ -29,3 +29,7 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 [MANDARIN](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-20-code-challenge.py): This script converts an arabic number to a mandarin number.
 
 [GPA CALC](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-26-code-challenge.py): A script that calculates a student's gpa for a particular semester
+
+[Phone Number Validator](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-04-code-challenge.py): A simple python script that checks if a particular phone number is Nigeria or otherwise
+
+It throws an exception if the latter condition is true.
