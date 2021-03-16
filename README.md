@@ -24,6 +24,8 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 
 [TRIANGLE](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-25-code-challenge.py) : A code task that returns the area and type of a triangle based on it's inputs.
 
+[Intensive Properties](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-24-code-challenge.py) : A code task that converts a physical property from one unit to another unit (in this case is pressure and temperature).
+
 [EDIT DISTANCE](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-19-code-challenge.py): A code task to find the [edit_distance](https://www.geeksforgeeks.org/edit-distance-dp-5/)(a dynamic programming problem) between two strings.
 
 [ARMSTRONG](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-23-code-challenge.py): A code task that helps us verify if a number is an [Armstrong number](https://en.wikipedia.org/wiki/Narcissistic_number)
@@ -32,6 +34,4 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 
 [GPA CALC](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-26-code-challenge.py): A script that calculates a student's gpa for a particular semester
 
-[Phone Number Validator](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-04-code-challenge.py): A simple python script that checks if a particular phone number is Nigeria or otherwise
-
-It throws an exception if the latter condition is true.
+[Phone Number Validator](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-04-code-challenge.py): A simple python script that checks if a particular phone number is Nigeria or otherwise it throws an exception if the latter condition is true.
