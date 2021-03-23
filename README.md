@@ -24,6 +24,7 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 
 [TRIANGLE](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-25-code-challenge.py) : A code task that returns the area and type of a triangle based on it's inputs.
 
+[Magic Dates](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-28-code-challenge.py): A code task which is based on asserting where a date is a magic one and subsequently finding out a list of [magic dates](https://trello.com/c/zkYpWkms/69-project-magic-dates) in a given year.
 [Intensive Properties](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-24-code-challenge.py) : A code task that converts a physical property from one unit to another unit (in this case is pressure and temperature).
 
 [EDIT DISTANCE](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-19-code-challenge.py): A code task to find the [edit_distance](https://www.geeksforgeeks.org/edit-distance-dp-5/)(a dynamic programming problem) between two strings.
