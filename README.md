@@ -36,3 +36,5 @@ NB:NOT ALL THE CODE CHALLENGES I DID ARE IN THIS REPOSITORY BUT You can Check al
 [GPA CALC](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-26-code-challenge.py): A script that calculates a student's gpa for a particular semester
 
 [Phone Number Validator](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-04-code-challenge.py): A simple python script that checks if a particular phone number is Nigeria or otherwise it throws an exception if the latter condition is true.
+
+[Text Messaging](https://github.com/E-wave112/ecx-daily-code-challenges/blob/master/day-29-code-challenge.py) A simple code task on how matching the number of keystrokes made to get a character
