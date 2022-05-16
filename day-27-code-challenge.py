@@ -14,4 +14,4 @@ def gcd(n, m):
 n = int(input('\nenter first number\n :'))
 m = int(input('\nenter second number :'))
 print(gcd(n,m))
-print('\nmerci, encore; a bientôt'
+print('\nmerci, encore; a bientôt')
